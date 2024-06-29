@@ -1,5 +1,5 @@
 # amazon-reviews-sentiment-analysis
-README.txt
+README
 -----------
 
 Project Title: Amazon Reviews Sentiment Analysis and Clustering
