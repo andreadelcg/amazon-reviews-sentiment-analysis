@@ -13,7 +13,7 @@ Problem Statement:
 
 Solution Outline:
 1. **Data Collection and Filtering**
-   - Load the dataset from the McAuley-Lab/Amazon-Reviews-2023.
+   - Load the dataset from the McAuley-Lab/Amazon-Reviews-2023. (https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/tree/main) the name of the file is asin2category.json
    - Filter reviews to include only those from the year 2023.
 
 2. **Preprocessing**
