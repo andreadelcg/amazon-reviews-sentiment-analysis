@@ -73,3 +73,6 @@ Future Developments:
 Contributors:
 - Andrea Del Carpio
 - Ryan Eakins
+
+Code References:
+- McAuley/Amazon-Reviews-2023.py was used in order to import the data from the McAuley Lab.
